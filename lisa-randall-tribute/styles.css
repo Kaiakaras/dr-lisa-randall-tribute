@@ -1,0 +1,66 @@
+body {
+    font-family: Roboto, Helvetica, sans-serif;
+    
+}
+
+main {
+    background-color: #eeeeee;
+    margin: 10px 10px;
+    border-radius: 9px;
+    padding: 10px;
+    
+}
+
+main p, main h2, h1 {
+    text-align: center;
+}
+
+#img-div {
+    max-width: 90%;
+    background-color: white;
+    margin: 0 auto 50px auto;
+    z-index: 1;
+    padding: 10px;
+    text-align: center;
+    display: block;
+
+}
+
+#image {
+    max-width: 100%;
+    height: auto;
+    background-color: white;
+    margin: 0 auto;
+    max-height: 100%;
+    display: block;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+p {
+    font-size: 16px;
+    line-height: 20px;
+}
+
+li {
+    padding: 10px;
+    line-height: 20px;
+}
+
+
+#credits {
+    font-size: 19px;
+    font-weight: 700;
+    margin: 30px auto;
+}
+
+a {
+    color: #477ca7;
+    text-decoration: underline;
+}
+
+a:hover, a:active {
+    color: #264863;
+}
